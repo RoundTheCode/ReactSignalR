@@ -1,0 +1,6 @@
+bin/
+obj/
+.vs/
+*.suo
+node_modules/
+publish/
